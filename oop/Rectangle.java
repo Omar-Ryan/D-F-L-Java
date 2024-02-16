@@ -11,7 +11,7 @@ public class Rectangle {
         length = 15;
     }
 
-    // Parameterized Constructor
+    // Parameterized Constructor or Overloaded method
     public Rectangle(int w, int l) {
         width = w;
         length = l;
