@@ -63,5 +63,10 @@ public class learnOop {
         System.out.println(" data of Employee Copy Constructor");
         EmpData3.printEmpData();
 
+        // Static Class
+        System.out.println(Calc.add(7, 15));
+        System.out.println(Calc.Sub(25, 10));
+        System.out.println(Calc.add(2.5, 20));
+
     }
 }
